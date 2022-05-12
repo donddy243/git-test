@@ -12,7 +12,8 @@
 !.vscode/*.code-snippets
 
 #dossiers interdits
-.assets/notes
+/assets/notes
+
 # Local History for Visual Studio Code
 .history/
 
